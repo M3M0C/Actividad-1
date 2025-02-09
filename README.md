@@ -1,7 +1,7 @@
 # actividad1
 #Nombre: Cruz Sandoval Guillermo Esteban
 #Email:a23311034@uthermosillo.edu.mx
-#Github: https://github.com/AntonioZamoranoMendez
+#Github: https://github.com/M3M0C
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
